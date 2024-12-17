@@ -1,0 +1,13 @@
+# Archivos de caché
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de compilación de Python
+*.db
+*.sqlite3
+# Carpeta de entorno virtual
+venv/
+.env/
+.env.*
